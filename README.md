@@ -1,7 +1,7 @@
 # chatGPT_test
 
 
-## 1. Ask：
+## Ask：
 
 #### How to use the Vlookup function in Excel？ give me an example
 
