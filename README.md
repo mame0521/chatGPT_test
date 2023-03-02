@@ -232,7 +232,7 @@ This is the early spring in March, a time of new beginnings and the promise of w
 
 ## Try: 
 
-copy the generated words to txt2img processing (stable diffusion) website (https://stablediffusionweb.com/#demo), and get the following AI pictures, so wonderful !
+copy the generated words to txt2img processing (stable diffusion) website (https://stablediffusionweb.com/#demo), and get the following AI synthetic pictures, so wonderful!
 
 ![](https://gitee.com/flycloud2009_cloudlou/img/raw/master/img/stable-diffusion1.jpg)
 
