@@ -172,7 +172,7 @@ Overall, a strong combination of technical and soft skills is crucial for succes
 
 ## Ans:
 
-#### There could be several reasons why it may be difficult for 2023 Fall graduates to find IT jobs in the USA. Here are a few possible factors:
+#### There could be several reasons why it may be difficult for 2022 Fall graduates to find IT jobs in the USA. Here are a few possible factors:
 
 1. Competition: There may be a lot of competition for IT jobs, particularly for entry-level positions. There may be many qualified candidates vying for the same positions, which can make it difficult for new graduates to stand out.
 
