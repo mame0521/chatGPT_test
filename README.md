@@ -168,7 +168,7 @@ Overall, a strong combination of technical and soft skills is crucial for succes
 
 ## Ask:
 
-#### Why is it so difficult for 2023 Fall graduates to find IT jobs in USA？
+#### Why is it so difficult for 2022 Fall graduates to find IT jobs in USA？
 
 ## Ans:
 
